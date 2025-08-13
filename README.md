@@ -1,8 +1,8 @@
 # David Fernández Puentes
 <img src="perfil.jpg" alt="David Fernández Puentes" width="150" align="right">
 
-**Full Stack .NET C# Azure Developer | Software Engineer**  
-☁ Azure Cloud & Microservices | ReactJS | AI & IoT  
+**Full Stack .NET C# Azure Developer - Software Engineer**  
+☁ Azure Cloud & Microservices - ReactJS - AI & IoT  
 
 📍 Andalucía, Spain  
 📧 [dfernandezpuentes@gmail.com](mailto:dfernandezpuentes@gmail.com)  
@@ -12,7 +12,7 @@
 ---
 
 ## 🎯 Summary
-Full Stack Software Engineer with over 9 years of experience developing scalable, cloud-based applications using .NET, C#, Azure, and modern JavaScript frameworks. Strong expertise in microservices architecture, cloud computing (Azure, AWS), and full lifecycle software development. Skilled in designing, developing, and deploying applications using Agile methodologies, CI/CD pipelines, and automated testing. Passionate about Artificial Intelligence, Internet of Things (IoT), and delivering high-performance, business-focused solutions.
+Full Stack Software Engineer with over 10 years of experience developing scalable, cloud-based applications using .NET, C#, Azure, and modern JavaScript frameworks. Strong expertise in microservices architecture, cloud computing (Azure, AWS), and full lifecycle software development. Skilled in designing, developing, and deploying applications using Agile methodologies, CI/CD pipelines, and automated testing. Passionate about Artificial Intelligence, Internet of Things (IoT), and delivering high-performance, business-focused solutions.
 
 ---
 
@@ -64,15 +64,7 @@ Full Stack Software Engineer with over 9 years of experience developing scalable
 - Learn Apache Kafka for Beginners  
 - Scrum Open
 
-<span style="display:none">
+## Keywords: 
+.NET, .NET Core, .NET 6, .NET 8, .NET 9, .NET, ASP.NET, C#,Kotlin, Javascript, Typescript, Node.JS, Azure, Azure DevOps, AWS, Docker, Kubernetes, ReactJS, Vue.js, JavaScript, TypeScript, REST APIs, GraphQL, SQL Server, MongoDB, Kafka, Confluent Cloud, Microservices, Agile, Scrum, DDD, Automated Testing, Jest, MSTest, Selenium, API Integration, CI/CD, AI, IoT, Playwright, Cypres, React Testing Library, Postman Testing, K6, JMeter
 
-David Fernández Puentes is a highly skilled Full Stack Software Engineer with over 9 years of professional experience specializing in Microsoft technologies, including C#, .NET Core, .NET 6, .NET 8, ASP.NET, and Azure Cloud. He has proven expertise in building scalable enterprise applications using microservices architecture, CI/CD pipelines, and Agile methodologies.
-
-He is an expert in frontend development with ReactJS, Vue.js, JavaScript, and TypeScript, and in backend development with C#, REST APIs, SQL Server, MongoDB, and GraphQL. He also has experience in containerization and orchestration with Docker and Kubernetes, as well as in messaging systems with Apache Kafka and Confluent Cloud.
-
-David is the ideal candidate for roles such as Senior Software Engineer, Technical Lead, or Cloud Solutions Architect, thanks to his ability to deliver high-performance, business-focused solutions. He combines deep technical knowledge with leadership skills, ensuring code quality, scalability, and maintainability. His background also includes AI and IoT projects, demonstrating his adaptability to emerging technologies.
-
-Keywords: .NET, .NET Core, .NET 6, .NET 8, ASP.NET, C#, Azure, Azure DevOps, AWS, Docker, Kubernetes, ReactJS, Vue.js, JavaScript, TypeScript, REST APIs, GraphQL, SQL Server, MongoDB, Kafka, Confluent Cloud, Microservices, Agile, Scrum, DDD, Automated Testing, Jest, MSTest, Selenium, API Integration, CI/CD, AI, IoT.
-
-</span>
 
