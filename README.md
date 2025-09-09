@@ -67,4 +67,11 @@ Full Stack Software Engineer with over 10 years of experience developing scalabl
 ## Keywords: 
 .NET, .NET Core, .NET 6, .NET 8, .NET 9, .NET, ASP.NET, C#,Kotlin, Javascript, Typescript, Node.JS, Azure, Azure DevOps, AWS, Docker, Kubernetes, ReactJS, Vue.js, JavaScript, TypeScript, REST APIs, GraphQL, SQL Server, MongoDB, Kafka, Confluent Cloud, Microservices, Agile, Scrum, DDD, Automated Testing, Jest, MSTest, Selenium, API Integration, CI/CD, AI, IoT, Playwright, Cypres, React Testing Library, Postman Testing, K6, JMeter
 
+---
+
+## 📚 Repository Documentation
+
+- **[¿Qué tipo de tareas se pueden hacer aquí?](TIPOS_DE_TAREAS.md)** - Guía completa en español sobre los tipos de tareas y mejoras que se pueden realizar en este repositorio
+- **[What Types of Tasks Can Be Done Here?](TASK_TYPES.md)** - Complete English guide about the types of tasks and improvements that can be performed in this repository
+
 
